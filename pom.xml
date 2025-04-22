@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.rancard.demo</groupId>
-  <artifactId>new-hello-nexus-2.0</artifactId>
+  <artifactId>new-hello-nexus-3.0</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version> 
   <name>new-hello-nexus</name>
